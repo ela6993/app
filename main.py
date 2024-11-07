@@ -9,3 +9,6 @@ def isOdd(n):
         return False
     else:
         return True
+    
+def hello():
+    return 'Hello World!'
