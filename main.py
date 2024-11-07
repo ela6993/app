@@ -3,3 +3,9 @@ def isEven(n):
         return True
     else:
         return False
+
+def isOdd(n):
+    if isEven(n):
+        return False
+    else:
+        return True
